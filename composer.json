@@ -1,0 +1,24 @@
+{
+    "name":        "bmatzner/lodash-bundle",
+    "type":        "symfony-bundle",
+    "description": "Lo-Dash Bundle for Symfony2",
+    "keywords":    ["lodash", "javascript", "underscore", "symfony"],
+    "homepage":    "http://lodash.com",
+    "license":     "MIT",
+    "authors":     [
+        {
+            "name":     "Bernd Matzner",
+            "email":    "bernd@matznermatzner.de",
+            "homepage": "http://berndmatzner.de"
+        }
+    ],
+    "require":     {
+        "symfony/framework-bundle": ">=2.1"
+    },
+    "autoload":    {
+        "psr-0": {
+            "Bmatzner\\LoDashBundle": ""
+        }
+    },
+    "target-dir":  "Bmatzner/LoDashBundle"
+}
