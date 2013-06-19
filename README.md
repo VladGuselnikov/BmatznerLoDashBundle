@@ -2,7 +2,7 @@ Lo-Dash Bundle for Symfony2
 
 ## Current Version
 
-Lo-Dash v1.2.1
+Lo-Dash v1.3.1
 
 ## Installation
 
