@@ -2,7 +2,7 @@ Lo-Dash Bundle for Symfony2
 
 ## Current Version
 
-Lo-Dash v2.3.0
+Lo-Dash v2.4.1
 
 ## Installation
 
@@ -14,7 +14,7 @@ Lo-Dash v2.3.0
 {
     "require": {
 		// ...
-        "bmatzner/lodash-bundle": "~2.3"
+        "bmatzner/lodash-bundle": "~2.4"
     }
 }
 ```
