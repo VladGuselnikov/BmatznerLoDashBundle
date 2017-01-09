@@ -1,8 +1,13 @@
 Lo-Dash Bundle for Symfony2
 
+## Notice
+
+This is a legacy bundle dating back to when javascript packagers such as NPM or Bower didn't exist.
+No further updates to this bundle will be published, so please consider the bundle abandoned.
+
 ## Current Version
 
-Lo-Dash v2.4.1
+Lo-Dash v4.17.4
 
 ## Installation
 
@@ -14,7 +19,7 @@ Lo-Dash v2.4.1
 {
     "require": {
 		// ...
-        "bmatzner/lodash-bundle": "~2.4"
+        "bmatzner/lodash-bundle": "~4.17"
     }
 }
 ```
